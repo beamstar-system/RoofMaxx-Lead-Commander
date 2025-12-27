@@ -1,0 +1,7 @@
+{
+  "name": "RoofMaxx Lead Commander",
+  "description": "AI-powered commercial roofing lead generation tool using Google Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
